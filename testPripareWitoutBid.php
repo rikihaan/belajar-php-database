@@ -18,7 +18,7 @@ foreach($result as $row){
 }
 
 if ($success){
-    echo "Login succes, Selamat Datang $user".PHP_EOL;
+    echo " succes, Selamat Datang $user".PHP_EOL;
 }else{
     echo "Login Gagal".PHP_EOL;
 }
